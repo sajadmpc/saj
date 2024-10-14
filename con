@@ -1,9 +1,2 @@
-vless://bf2ad1a9-fd75-47a4-e6b7-1936fe3a629e@www.anten.ir:443?encryption=none&security=tls&sni=mpc-20-9149c16ef6-sajad.apps.ir-central1.arvancaas.ir&alpn=h2&fp=randomized&type=ws&host=mpc-20-9149c16ef6-sajad.apps.ir-central1.arvancaas.ir#co-ir-co-1
-vless://bf2ad1a9-fd75-47a4-e6b7-1936fe3a629e@anten.ir:443?encryption=none&security=tls&sni=mpc-20-9149c16ef6-sajad.apps.ir-central1.arvancaas.ir&alpn=h2&fp=randomized&type=ws&host=mpc-20-9149c16ef6-sajad.apps.ir-central1.arvancaas.ir#co-ir-co-2
-vless://bf2ad1a9-fd75-47a4-e6b7-1936fe3a629e@mpc-20-9149c16ef6-sajad.apps.ir-central1.arvancaas.ir:80/?type=ws&path=%2F&host=mpc-20-9149c16ef6-sajad.apps.ir-central1.arvancaas.ir&security=none#co-ir-co-3
-vless://01d6b634-cb75-44ec-98cc-e450e5af353e@saj1984saj.pages.dev:443?encryption=none&security=tls&sni=saj1984saj.pages.dev&type=ws&host=saj1984saj.pages.dev&path=%2F%3Fed%3D1024#saj1984saj.pages.dev
-vless://01d6b634-cb75-44ec-98cc-e450e5af353e@zula.ir:443?encryption=none&security=tls&sni=saj1984saj.pages.dev&type=ws&host=saj1984saj.pages.dev&path=%2F%3Fed%3D1024#zula.ir
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#%F0%9F%87%A7%F0%9F%87%ADBH
-wg://188.114.96.203:4177?publicKey=bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=&privateKey=KNzWh/k3xIiQRMMn2rRsntSicW+wtr/s+WyAnSRt3kw=&ip=172.16.0.2/32,2606:4700:110:8f81:d551:a0:532e:a2b3/128&mtu=1280&dns=1.1.1.1,%201.0.0.1,%202606:4700:4700::1111,%202606:4700:4700::1001&udp=1&reserved=8,73,66&flag=CDN#warp-IR-shadow
-wireguard://188.114.96.203:4177?private_key=KNzWh/k3xIiQRMMn2rRsntSicW+wtr/s+WyAnSRt3kw%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&address=172.16.0.2/32,2606:4700:110:8f81:d551:a0:532e:a2b3/128&reserved=8,73,66#warp-IR-stresand
-wireguard://KNzWh%2Fk3xIiQRMMn2rRsntSicW%2Bwtr%2Fs%2BWyAnSRt3kw%3D@188.114.96.203:4177/?publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&reserved=8%2C73%2C66&address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8f81%3Ad551%3Aa0%3A532e%3Aa2b3%2F128&mtu=1280#warp-IR-v2ry
+vless://2ae6ed92-19b0-4898-a1aa-fc0ec1e07453@185.220.227.126:54000?type=tcp&security=none#ir-co-swden
+vless://6331912f-4032-40ac-db36-77cf3400d734@185.220.227.126:18000?type=tcp&security=none#ir-co-usa
