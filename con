@@ -1,6 +1,4 @@
-vless://81333e7d-f9cd-49a6-c588-708c411dcf89@188.121.98.126:25000?type=tcp&security=none#sweden-direct
-vless://4a4c9fc8-e39f-441c-854b-6b742490032f@188.121.98.126:26000?type=tcp&security=none#usa-warp
-vless://273745b3-e420-4ded-e6a0-ee56b0ca76fc@188.121.98.126:27000?type=tcp&security=none#usa-direct-00
-vless://207ce052-ceff-4dc8-ad8a-bc594e42b303@188.121.98.126:29000?type=tcp&security=none#sweden-Tor
-vless://f6b58882-814f-423a-a3d9-f37f26a63d19@188.121.98.126:30000?type=tcp&security=none#usa-Psiphon
-vless://afb5221b-4ffa-4c78-c130-b5a108298521@188.121.98.126:28000?type=tcp&security=none#sweden-Psiphon-00
+vless://57b9c527-21e2-46bc-b415-188daaf361a6@188.121.98.126:20000?type=kcp&headerType=none&seed=jATouXEYiD&security=none#us-direct-20000
+vless://b2a0f475-1694-4f24-acc6-9947e27e5191@188.121.98.126:30000?type=kcp&headerType=none&seed=2OJz8tEmUT&security=none#us-warp-30000
+vless://7b43808b-68ff-4c8f-dabf-d41779fa6165@188.121.98.126:40000?type=kcp&headerType=none&seed=5orxiXp8DE&security=none#SE-direct-40000
+vless://06153f65-ee6e-43fe-b587-ff356c22f748@188.121.98.126:50000?type=kcp&headerType=none&seed=LGwWe1Kn3P&security=none#SE-warp-50000
