@@ -1,4 +1,4 @@
-vless://57b9c527-21e2-46bc-b415-188daaf361a6@188.121.98.126:20000?type=kcp&headerType=none&seed=jATouXEYiD&security=none#us-direct-20000
-vless://b2a0f475-1694-4f24-acc6-9947e27e5191@188.121.98.126:30000?type=kcp&headerType=none&seed=2OJz8tEmUT&security=none#us-warp-30000
+vless://57b9c527-21e2-46bc-b415-188daaf361a6@188.121.98.126:20000?type=kcp&headerType=none&seed=jATouXEYiD&security=none#US-direct-20000
+vless://b2a0f475-1694-4f24-acc6-9947e27e5191@188.121.98.126:30000?type=kcp&headerType=none&seed=2OJz8tEmUT&security=none#US-warp-30000
 vless://7b43808b-68ff-4c8f-dabf-d41779fa6165@188.121.98.126:40000?type=kcp&headerType=none&seed=5orxiXp8DE&security=none#SE-direct-40000
 vless://06153f65-ee6e-43fe-b587-ff356c22f748@188.121.98.126:50000?type=kcp&headerType=none&seed=LGwWe1Kn3P&security=none#SE-warp-50000
