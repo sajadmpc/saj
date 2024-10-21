@@ -1,3 +1,1 @@
-vless://9fbfa44a-a2d5-49a0-ee16-378f86bc9887@188.121.97.37:90?type=tcp&path=%2F&headerType=http&security=none#SE-con-direct
-vless://8accae01-0966-40c9-ee57-83415cd74b83@188.121.97.37:3440?type=tcp&path=%2F&headerType=http&security=none#US-con-direct
-vless://eb6063a5-950a-4dd2-c0c3-684ced8cc1a3@188.121.97.37:47769?type=tcp&security=none#BH-nfxdsqm5f
+vless://e050a4ee-e7c0-445e-9865-798a03e6d454@213.176.127.14:3440?type=tcp&path=%2F&headerType=http&security=none#US-direct
