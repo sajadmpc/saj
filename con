@@ -1,1 +1,2 @@
-vless://e050a4ee-e7c0-445e-9865-798a03e6d454@213.176.127.14:3440?type=tcp&path=%2F&headerType=http&security=none#US-direct
+vless://e050a4ee-e7c0-445e-9865-798a03e6d454@213.176.127.14:3440?type=tcp&path=%2F&host=speedtest.net&headerType=http&security=none#US-direct
+vless://98b50f6e-67d0-4f6b-a2eb-24f24649fe71@213.176.127.14:4440?type=tcp&path=%2F&host=speedtest.net&headerType=http&security=none#SE-direct
